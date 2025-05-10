@@ -8,26 +8,27 @@ A simple and lightweight Task Manager built using Flask (Python), HTML, CSS, Jav
 - **Database:** SQLite (lightweight, file-based)
 
 **Setup Instructions**
-- **Clone the repository or download the ZIP**
 <br>
+- **Clone the repository or download the ZIP**
 git clone https://github.com/yourusername/task-manager.git
 cd task-manager
+<br>
 
 - **Create a virtual environment (optional but recommended)**
-<br>
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+<br>
 
 - **Install dependencies**
-<br>
 pip install -r requirements.txt
+<br>
 
 - **Run the Flask app**
-<br>
 python app.py
+<br>
 
 - **Open your browser and go to:**
-<br>
 http://127.0.0.1:5000
+<br>
 
 ![Screenshot 2025-03-25 144656](https://github.com/user-attachments/assets/6dabe5c8-ebc4-4f76-8c5d-a1ed22129386)
