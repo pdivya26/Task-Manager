@@ -22,7 +22,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 - **Install dependencies**  
 pip install -r requirements.txt
 
-- **Run the Flask app**
+- **Run the Flask app**  
 python app.py
 
 - **Open your browser and go to:**  
