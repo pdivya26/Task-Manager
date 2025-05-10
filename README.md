@@ -10,14 +10,12 @@ A simple and lightweight Task Manager built using Flask (Python), HTML, CSS, Jav
 **Setup Instructions**
 <br>
 - **Clone the repository or download the ZIP**  
-git clone https://github.com/yourusername/task-manager.git  
-cd task-manager
-<br>
+git clone https://github.com/pdivya26/task-manager.git  
+cd task-manager  
 
 - **Create a virtual environment (optional but recommended)**  
 python -m venv venv  
 source venv/bin/activate  # On Windows: venv\Scripts\activate  
-<br>
 
 - **Install dependencies**  
 pip install -r requirements.txt
