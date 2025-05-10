@@ -2,13 +2,13 @@
 
 A simple and lightweight Task Manager built using Flask (Python), HTML, CSS, JavaScript, and SQLite. This web application allows users to create, view, update, and delete tasks through a clean and responsive interface.
 
-**Tech Stack**
+**###Tech Stack**
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python with Flask
 - **Database:** SQLite (lightweight, file-based)
 
-**Setup Instructions**
-<br>
+**###Setup Instructions**
+<br>  
 **Clone the repository or download the ZIP**  
 git clone https://github.com/pdivya26/task-manager.git  
 cd task-manager  
